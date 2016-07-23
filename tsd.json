@@ -6,7 +6,31 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "mocha/mocha.d.ts": {
-      "commit": "95eb7b2527a28281cdbf480c0560744bc5190465"
+      "commit": "e4503bad7d13c243c38201cc0b6a15981297226d"
+    },
+    "supertest/supertest.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "superagent/superagent.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "node/node.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "express/express.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "mime/mime.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
     }
   }
 }

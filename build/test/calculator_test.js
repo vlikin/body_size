@@ -1,5 +1,5 @@
 "use strict";
-/// <reference path="../../typings/mocha/mocha.d.ts" />
+/// <reference path="../../typings/mocha/mocha" />
 var index_1 = require('../source/index');
 describe('Calculator', function () {
     var subject;
