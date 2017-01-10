@@ -22,27 +22,27 @@
   },
   "homepage": "https://github.com/vlikin/body_size#readme",
   "dependencies": {
-    "angular2": "2.0.0-beta.1",
+    "angular2": "2.0.0-beta.21",
     "body-parser": "^1.15.2",
-    "es6-promise": "3.0.2",
-    "es6-shim": "0.33.3",
-    "express": "4.13.3",
-    "gulp-concat": "2.6.0",
-    "reflect-metadata": "0.1.2",
-    "rxjs": "5.0.0-beta.0",
-    "supertest": "^1.2.0",
-    "systemjs": "0.19.16",
-    "zone.js": "0.5.10"
+    "es6-promise": "4.0.5",
+    "es6-shim": "0.35.2",
+    "express": "4.14.0",
+    "gulp-concat": "2.6.1",
+    "reflect-metadata": "0.1.9",
+    "rxjs": "5.0.3",
+    "supertest": "^2.0.1",
+    "systemjs": "0.19.41",
+    "zone.js": "0.7.4"
   },
   "devDependencies": {
-    "del": "2.2.0",
-    "gulp": "3.9.0",
-    "gulp-concat": "2.6.0",
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
     "gulp-express": "^0.3.5",
-    "gulp-sourcemaps": "1.6.0",
-    "gulp-typescript": "2.10.0",
-    "mocha": "^2.5.3",
-    "run-sequence": "1.1.5",
-    "supertest": "^1.2.0"
+    "gulp-sourcemaps": "2.3.0",
+    "gulp-typescript": "3.1.4",
+    "mocha": "^3.2.0",
+    "run-sequence": "1.2.2",
+    "supertest": "^2.0.1"
   }
 }
